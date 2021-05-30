@@ -1,2 +1,8 @@
-An authentication app that was built using react and redux. 
-Uses JWT to verify authentication,Node.js and MongoDB in backend.
+# Auth service
+A simple auth service built using
+* React
+* Redux
+* Express
+* node.js
+* JWT
+* MongoDB
